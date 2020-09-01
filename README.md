@@ -1,5 +1,5 @@
 **Name**: Paige Schoer
 
-**Assignment Name**:Assignment 1A: Create Glitch Account and Page
+**Assignment Name**:Assignment 2A: Git Hub
 
-**Date**: August 26, 2020
+**Date**: September 1, 2020
